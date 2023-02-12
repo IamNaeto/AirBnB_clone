@@ -258,7 +258,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     <summary>Akinbode Joshua</summary>
     <ul>
     <li><a href="https://www.github.com/Iamnaeto">Github</a></li>
-    <li><a href="mailto:Iamnaeto@gmail.com">e-mail</a></li>
+    <li><a href="mailto:egesionucharlesobimnaeto@gmail.com">e-mail</a></li>
     <li><a href="https://www.github.com/Jorshstar">Github</a></li>
     <li><a href="mailto:ajosh22.aj@gmail.com">e-mail</a></li>
     </ul>
